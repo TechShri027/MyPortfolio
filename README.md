@@ -1,5 +1,5 @@
 # Personal-Portfolio
-Personal Portfolio Website of Dhairya Majmudar a programming enthusiast from IIIT Kota
+Personal Portfolio Website of Shrishti Bansal – A programming portfolio showcasing my skills in React, UI design with Material-UI, responsive layouts with TailwindCSS, and animations using AOS and Lottie.
 <br>
   <hr>
 
