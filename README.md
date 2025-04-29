@@ -1,5 +1,5 @@
 # Personal-Portfolio
-Personal Portfolio Website of Shrishti Bansal – A programming portfolio showcasing my skills in React, UI design with Material-UI, responsive layouts with TailwindCSS, and animations using AOS and Lottie.
+Personal Portfolio Website of Shrishti Bansal – A programming portfolio showcasing my skills in React, UI design with Material-UI, responsive layouts with TailwindCSS, and animations using AOS and Lottie. click here (shrishtibansal-portfolio.netlify.app)
 <br>
   <hr>
 
